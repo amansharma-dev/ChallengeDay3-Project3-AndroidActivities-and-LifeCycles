@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ChallengeDay3-Project3-AndroidActivities-and-LifeCycles</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="age">Age</string>
+    <string name="send_to_activity_b">Send To Activity B</string>
+    <string name="review">Review :</string>
+    <string name="name_title">Name :</string>
+    <string name="city_title">City :</string>
+    <string name="age_title">Age :</string>
+    <string name="leave_a_review">Leave a review</string>
+    <string name="send_to_main_activity">Send To Main Activity</string>
+
 </resources>
